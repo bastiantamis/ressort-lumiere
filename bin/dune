@@ -1,0 +1,4 @@
+(executable
+ (public_name ressort)
+ (name main)
+ (libraries ressort graphics unix))
